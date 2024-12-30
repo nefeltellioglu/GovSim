@@ -16,5 +16,5 @@ pip3 install bitsandbytes
 
 pip3 install -r requirements.txt
 
-
 conda install transformers==4.39.3
+pip install peft==0.10.0
